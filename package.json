@@ -1,0 +1,33 @@
+{
+  "name": "webpack-babel-kit",
+  "version": "1.0.0",
+  "description": "This is a Webpack & Babel Starter Kit ",
+  "main": "app.js",
+  "scripts": {
+    "build:d": "webpack --mode development",
+    "build:p": "webpack --mode production",
+    "start": "webpack-dev-server --output-public-path=/build/"
+  },
+  "keywords": [
+    "npm",
+    "babel",
+    "webpack",
+    "starter",
+    "kit",
+    "es6",
+    "javascript"
+  ],
+  "author": "Shovon Das",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.6.0",
+    "@babel/preset-env": "^7.6.0",
+    "babel-loader": "^8.0.6",
+    "webpack": "^4.40.2",
+    "webpack-cli": "^3.3.9",
+    "webpack-dev-server": "^3.8.1"
+  },
+  "dependencies": {
+    "@babel/polyfill": "^7.6.0"
+  }
+}
