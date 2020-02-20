@@ -31,9 +31,7 @@ $ npm run build
 ## More Info
 
 ### Author
-
-Shovon Das
-[click](http://www.shovon.net)
+[Shovon Das](http://www.shovon.net)
 
 ### License
 
