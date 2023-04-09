@@ -1,8 +1,8 @@
-# webpack v4.4 babel 7.6 Stater Template
-A starter pack to build JavaScript applications using standards from ES2015, ES2016 & ES2017. It uses webpack, Babel and webpack-dev-server to compile and serve. It is fully compatible with Async/Await as it uses the Babel polyfill.
+# webpack v5.7 babel 7.6 Stater Template
+A starter pack to build JavaScript applications using standards from ES5, ES6 & ESNEXT. It uses webpack, Babel and webpack-dev-server to compile and serve. It is fully compatible with Async/Await as it uses the Babel polyfill.
 
 ### Version
-1.2.0
+2.0.0
 
 ## Usage
 
